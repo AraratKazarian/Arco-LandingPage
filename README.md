@@ -1,2 +1,2 @@
-# arco
-Landing page
+# Arco
+This is a simple landing page.
